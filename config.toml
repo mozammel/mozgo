@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://mozammel.github.io/mozgo/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'MozammelHaque.com'
 theme = "hugo-clarity"
